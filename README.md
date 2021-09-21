@@ -8,7 +8,7 @@ Als Schulprojekt habe ich einen "Zufallszahl Errater" erstellen, welchen ich Ran
 
 
 ## Inhalt
-### Text
+### Was ist FiggleFonts?
 
 FiggleFonts ist eine NuGet extension für C# Konsol Applikationen, welches sehr nützlich für die Gestaltung ist und dieses vereinfacht. Mit einem einfachen Text kommt eine grössere Variante des Textes heraus, welches man zum Beispiel als Titel nutzen kann oder sonstige Gestaltungen, hier ein Beispiel mit C#:
 
@@ -27,12 +27,13 @@ Console.WriteLine(Figgle.FiggleFonts.Standard.Render("Test"));
 
 ### Video
 
-Video zur Bedienung der Konsole:
+Video zur Bedienung der Konsole auf YouTube:
+
 [![](https://i.imgur.com/e7bpX55.jpg)](https://youtu.be/cJ4SfkW_YVM)
 
 ## Reflexion + Verifikation
-Bei dem Gestalten dieses Auftrags habe ich mir viel Zeit genommen, fast zu viel. Als ich ASCII Characters in den Code einfügen und diese auch dann Exportiert haben wollte, befasste ich mich mit einer Covert Funktion für mehrere Stunden und es hat trotzdem nicht funktioniert.
-Nächstes Mal werde ich mich mehr mit Funktionen statt Design befassen und wenn ich mit Converter nicht klar komme, werde ich mich mit Alternativen ASCII Charakteren befassen statt mehrere Stunden eine Funktion dafür zu suchen.
+Bei dem Gestalten dieses Auftrags habe ich mir viel Zeit genommen, fast zu viel. Als ich ASCII Charakter in den Code einfügen und diesen auch dann Exportier wollte, befasste ich mich mit einer Covert Funktion für mehrere Stunden und es hat trotzdem nicht funktioniert.
+Nächstes Mal werde ich mich mehr mit Funktionen statt Design befassen und wenn ich mit Converter nicht klar komme, werde ich mich mit alternativen ASCII Charakteren befassen statt mehrere Stunden eine Funktion dafür zu suchen.
 
 
-Mein Banknachbar kann nun sehr einfach und schnell Zufallszahlen erraten
+Mein Banknachbar versteht nun was FiggleFonts ist und für was man es braucht, er lernte auch wie man die Konsole bedient und wie er Zahlen raten kann.
