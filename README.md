@@ -9,7 +9,7 @@ Als Schulprojekt musste ich einen "Zufallszahl Errater" erstellen, welchen ich R
 
 ## Inhalt
 ### Text
-
+Nachdem Sie das Programm gestartet haben, werden sie von einer Konsole begrüsst. Kurz danach müssen Sie "ENTER" auf der Tastatur drücken um das Spiel zu Starten! Ab jetzt können Sie die Zufallszahl erraten. Drücken Sie auf Ihrer Tastatur eine Zahl von 1-100, welche sie denken es könnte sein und drücken sie wieder "ENTER". Nun sehen Sie, ob Sie die Zahl richtig erraten haben, wenn nicht, können sie es nochmal versuchen bis Sie es schaffen, aber Achtung, Sie haben nur 10 Versüche. Nachdem die Zahl erraten wurde haben Sie das Spiel gewonnen!
 
 ### Bilder
 
