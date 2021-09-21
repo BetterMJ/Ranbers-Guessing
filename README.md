@@ -13,7 +13,7 @@ Als Schulprojekt habe ich einen "Zufallszahl raten Spiel" erstellt, diesen habe 
 
 FiggleFonts ist eine NuGet extension für C# Konsol Applikationen, welches sehr nützlich für die Gestaltung ist und dieses vereinfacht. Mit einem einfachen Text kommt eine grössere Variante des Textes heraus, welches man zum Beispiel als Titel nutzen kann oder sonstige Gestaltungen, hier ein Beispiel mit C#:
 
-Console.WriteLine(Figgle.FiggleFonts.Standard.Render("Test"));
+`Console.WriteLine(Figgle.FiggleFonts.Standard.Render("Test"))`;
    
 
 ### Bilder
