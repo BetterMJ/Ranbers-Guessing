@@ -1,4 +1,17 @@
 # Ranbers-Guessing
 
-## General Information
-This is for a school project which I've done in 2021 and it has been one of my first programms.
+## Aufgabenstellung
+Als Schulprojekt musste ich einen "Zufallszahl Errater" erstellen, welchen ich Ranbers genannt habe.
+Bei diesem Projekt wirst du lernen wie man Zufallszahlen mit dem jeweiligen Programm erraten kann!
+
+
+## Text
+
+
+## Bilder
+
+
+## Video
+
+
+## Reflexion + Verifikation
