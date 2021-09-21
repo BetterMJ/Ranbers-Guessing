@@ -21,15 +21,18 @@ und dieses gibt als Text dies heraus:
    
 
 ### Bilder
-"Hasta La Vista"
+
+"Hasta La Vista" wurde mit FiggelFonts erstellt:
+
 ![Goodbye](https://i.imgur.com/bt4dbRk.jpg)
 
-### C# Code
+### C#
 
 ![CodeC#](https://i.imgur.com/xqw6nB0.jpg)
 
 ### Video
 
+Video zur Bedienung der Konsole:
 [![](https://i.imgur.com/e7bpX55.jpg)](https://youtu.be/cJ4SfkW_YVM)
 
 ## Reflexion + Verifikation
