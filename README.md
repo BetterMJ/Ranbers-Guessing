@@ -11,7 +11,7 @@ Als Schulprojekt habe ich einen "Zufallszahl Errater" erstellen, welchen ich Ran
 ### Text
 
 FiggleFonts ist eine NuGet extension für C# Konsol Applikationen, welches sehr nützlich für die Gestaltung ist und dieses vereinfacht. Mit einem einfachen Text kommt eine grössere Variante des Textes heraus, hier ein Beispiel: 
-'Console.WriteLine(Figgle.FiggleFonts.Standard.Render("Test"));'
+Console.WriteLine(Figgle.FiggleFonts.Standard.Render("Test"));
 und dieses gibt als Text dies heraus:
   _____         _
  |_   _|__  ___| |_
