@@ -2,7 +2,7 @@
 
 ## Aufgabenstellung
 Als Schulprojekt habe ich einen "Zufallszahl raten Spiel" erstellt, diesen habe ich Ranbers genannt habe.
-Der Schulauftrag war, dass ich ein Programm mache welches eine Zufallszahl generiert, der Benutzer diese Raten kann und die Konsole ausgibt ob die Zahl grösser, kleiner oder gleich wie die generierte Zufallszahl ist.
+Der Schulauftrag war, dass ich ein Programm mache, welches eine Zufallszahl generiert, der Benutzer diese Raten kann und die Konsole ausgibt ob die Zahl grösser, kleiner oder gleich wie die generierte Zufallszahl ist.
 
 1. Der Leser wird lernen wie er Zahlen erraten kann.
 2. Der Leser erfährt wie man die Konsole bedient. 
@@ -35,7 +35,7 @@ Video zur Bedienung der Konsole auf YouTube:
 
 ## Reflexion + Verifikation
 Bei dem Gestalten dieses Auftrags habe ich mir viel Zeit genommen, fast zu viel. Als ich ASCII Charakter in den Code einfügen und diesen auch dann Exportieren wollte, befasste ich mich mit einer Convert Funktion für mehrere Stunden und es hat trotzdem nicht funktioniert.
-Nächstes Mal werde ich mich mehr mit Funktionen statt Design befassen und werde zuerst nur die Funktionen des Programms machen und danach bei Zeit noch mit dem Design beschäftigen.
+Nächstes Mal werde ich mich mehr mit Funktionen statt Design befassen und werde zuerst nur die Funktionen des Programms starten und danach bei Zeit noch mit dem Design beschäftigen.
 
 
 Mein Banknachbar versteht nun was FiggleFonts ist und für was man es braucht, er lernte auch wie man die Konsole bedient und wie er Zahlen raten kann.
