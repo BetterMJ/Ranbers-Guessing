@@ -1,25 +1,22 @@
 # Ranbers-Guessing
 
 ## Aufgabenstellung
-Als Schulprojekt musste ich einen "Zufallszahl Errater" erstellen, welchen ich Ranbers genannt habe.
-1. Der Leser lernen wie er Zahlen erraten kannst.
-2. Der Leser erfährt wie man am schnellsten Zufallszahlen erratet.
-3. Der Leser erfährt wie man die Konsole bedient. 
+Als Schulprojekt habe ich einen "Zufallszahl Errater" erstellen, welchen ich Ranbers genannt habe.
+1. Der Leser wird lernen wie er Zahlen erraten kann.
+2. Der Leser erfährt wie man die Konsole bedient. 
+3. Der Leser lernt was FiggelFonts ist.
 
 
 ## Inhalt
 ### Text
-Nachdem Sie das Programm gestartet haben, werden sie von einer Konsole begrüsst. Kurz danach müssen Sie "ENTER" auf der Tastatur drücken um das Spiel zu Starten! Ab jetzt können Sie die Zufallszahl erraten. Drücken Sie auf Ihrer Tastatur eine Zahl von 1-100, welche sie denken es könnte sein und drücken sie wieder "ENTER". Nun sehen Sie, ob Sie die Zahl richtig erraten haben, wenn nicht, können sie es nochmal versuchen bis Sie es schaffen, aber Achtung, Sie haben nur 10 Versüche. Nachdem die Zahl erraten wurde haben Sie das Spiel gewonnen!
-
-Als kleiner Tipp: Wenn Sie eine Zahl eingeben, geben sie zuerst 50 ein und nacher 25 oder 75, je nach dem ob es kleiner oder grösser als 50 ist, dies wird Ihnen sehr viel Runden sparen.
+FiggelFonts hat dies und das und kann das und dies
 
 ### Bilder
-![Start](https://i.imgur.com/o0qUmkt.jpg)
-![Erraten](https://i.imgur.com/exjVW85.jpg)
-![ErratenFalsch](https://i.imgur.com/MYZcfvg.jpg)
-![ErratenNochmal](https://i.imgur.com/AUDqDaY.jpg)
-![ErratenRichtig](https://i.imgur.com/l2Kdglo.jpg)
 ![Goodbye](https://i.imgur.com/bt4dbRk.jpg)
+
+(Katze mit ASCII Art als string eingefügt, siehe unten)
+### C# Code
+![CodeC#](https://i.imgur.com/xqw6nB0.jpg)
 
 ### Video
 
