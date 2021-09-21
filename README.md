@@ -1,7 +1,8 @@
 # Ranbers-Guessing
 
 ## Aufgabenstellung
-Als Schulprojekt habe ich einen "Zufallszahl Errater" erstellen, welchen ich Ranbers genannt habe.
+Als Schulprojekt habe ich einen "Zufallszahl raten Spiel" erstellt, diesen habe ich Ranbers genannt habe.
+
 1. Der Leser wird lernen wie er Zahlen erraten kann.
 2. Der Leser erfährt wie man die Konsole bedient. 
 3. Der Leser lernt was FiggelFonts ist.
@@ -17,7 +18,7 @@ Console.WriteLine(Figgle.FiggleFonts.Standard.Render("Test"));
 
 ### Bilder
 
-"Hasta La Vista" wurde mit FiggelFonts erstellt:
+"Hasta La Vista" wurde mit FiggelFonts erstellt und die Katze mit ASCII Charaktern:
 
 ![Goodbye](https://i.imgur.com/bt4dbRk.jpg)
 
