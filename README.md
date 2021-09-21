@@ -9,17 +9,28 @@ Als Schulprojekt habe ich einen "Zufallszahl Errater" erstellen, welchen ich Ran
 
 ## Inhalt
 ### Text
-FiggelFonts hat dies und das und kann das und dies
+
+FiggleFonts ist eine NuGet extension für C# Konsol Applikationen, welches sehr nützlich für die Gestaltung ist und dieses vereinfacht. Mit einem einfachen Text kommt eine grössere Variante des Textes heraus, hier ein Beispiel: 
+'Console.WriteLine(Figgle.FiggleFonts.Standard.Render("Test"));'
+und dieses gibt als Text dies heraus:
+  _____         _
+ |_   _|__  ___| |_
+   | |/ _ \/ __| __|
+   | |  __/\__ \ |_
+   |_|\___||___/\__|
+   
 
 ### Bilder
+"Hasta La Vista"
 ![Goodbye](https://i.imgur.com/bt4dbRk.jpg)
 
-(Katze mit ASCII Art als string eingefügt, siehe unten)
 ### C# Code
+
 ![CodeC#](https://i.imgur.com/xqw6nB0.jpg)
 
 ### Video
 
+[![](https://i.imgur.com/e7bpX55.jpg)](https://youtu.be/cJ4SfkW_YVM)
 
 ## Reflexion + Verifikation
 Bei dem Gestalten dieses Auftrags habe ich mir viel Zeit genommen, fast zu viel. Als ich ASCII Characters in den Code einfügen und diese auch dann Exportiert haben wollte, befasste ich mich mit einer Covert Funktion für mehrere Stunden und es hat trotzdem nicht funktioniert.
