@@ -24,7 +24,6 @@ FiggleFonts ist eine NuGet extension für C# Konsol Applikationen, welches sehr 
 ![Goodbye](https://i.imgur.com/bt4dbRk.jpg)
 
 ### C#
-
 ![CodeC#](https://i.imgur.com/xqw6nB0.jpg)
 
 ### Video
